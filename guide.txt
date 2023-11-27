@@ -1,0 +1,130 @@
+
+Access to XMLHttpRequest from origin has been blocked by CORS policy: Request header field x-requested-with is not allowed by Access-Control-Allow-Headers in preflight response.
+
+
+
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+            "correct_answer": ".svg",
+            "incorrect_answers": [
+                ".png",
+                ".jpeg",
+                ".gif"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What does DNA stand for?",
+            "correct_answer": "Deoxyribonucleic Acid",
+            "incorrect_answers": [
+                "Deoxyribogenetic Acid",
+                "Deoxyribogenetic Atoms",
+                "Detoxic Acid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Dark Souls, what is the name of the region you&#039;re in for the majority of the game?",
+            "correct_answer": "Lordran",
+            "incorrect_answers": [
+                "Drangleic",
+                "Oolacile",
+                "Catarina"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?",
+            "correct_answer": "Eleven",
+            "incorrect_answers": [
+                "Mike",
+                "Lucas",
+                "Karen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was Hearthstone released?",
+            "correct_answer": "2014",
+            "incorrect_answers": [
+                "2011",
+                "2013",
+                "2012"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The &quot;Day of Defeat&quot; series of games take place during which war?",
+            "correct_answer": "World War II",
+            "incorrect_answers": [
+                "World War I",
+                "Vietnam War",
+                "Iraq War"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In 2013, virtual pop-star Hatsune Miku had a sponsorship with which pizza chain?",
+            "correct_answer": "Domino&#039;s",
+            "incorrect_answers": [
+                "Papa John&#039;s",
+                "Pizza Hut",
+                "Sabarro&#039;s"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+            "correct_answer": "Fastball",
+            "incorrect_answers": [
+                "Slowball",
+                "Screwball",
+                "Palmball"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+            "correct_answer": "John Green",
+            "incorrect_answers": [
+                "Stephenie Meyer",
+                "Suzanne Collins",
+                "Stephen Chbosky"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "&quot;The Singing Cowboy&quot; Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
+            "correct_answer": "White Christmas",
+            "incorrect_answers": [
+                "Frosty the Snowman",
+                "Rudolph the Red-Nosed Reindeer",
+                "Here Comes Santa Claus"
+            ]
+        }
+    ]
+}
